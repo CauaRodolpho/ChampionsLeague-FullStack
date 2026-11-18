@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid",
+    "country": "Spain",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+  },
+  {
+    "id": 2,
+    "name": "Manchester City",
+    "country": "England",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+  },
+  {
+    "id": 3,
+    "name": "Barcelona",
+    "country": "Spain",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9avy1546183473.png"
+  },
+  {
+    "id": 4,
+    "name": "Bayern Munich",
+    "country": "Germany",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+  },
+  {
+    "id": 5,
+    "name": "Arsenal",
+    "country": "England",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+  },
+  {
+    "id": 6,
+    "name": "Liverpool",
+    "country": "England",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+  },
+  {
+    "id": 7,
+    "name": "Inter Milan",
+    "country": "Italy",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/quprwy1420568193.png"
+  },
+  {
+    "id": 8,
+    "name": "Paris Saint-Germain",
+    "country": "France",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vxtyrr1473504632.png"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Vinícius Júnior",
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "statistics": {
+      "overall": 92,
+      "pace": 96,
+      "shooting": 86,
+      "passing": 83,
+      "dribbling": 95,
+      "defending": 29,
+      "physical": 70
+    }
+  },
+  {
+    "id": 2,
+    "name": "Kylian Mbappé",
+    "club": "Real Madrid",
+    "nationality": "France",
+    "position": "Forward",
+    "statistics": {
+      "overall": 92,
+      "pace": 97,
+      "shooting": 91,
+      "passing": 81,
+      "dribbling": 93,
+      "defending": 36,
+      "physical": 78
+    }
+  },
+  {
+    "id": 3,
+    "name": "Lamine Yamal",
+    "club": "Barcelona",
+    "nationality": "Spain",
+    "position": "Forward",
+    "statistics": {
+      "overall": 89,
+      "pace": 91,
+      "shooting": 82,
+      "passing": 87,
+      "dribbling": 93,
+      "defending": 28,
+      "physical": 62
+    }
+  },
+  {
+    "id": 4,
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "nationality": "Norway",
+    "position": "Forward",
+    "statistics": {
+      "overall": 91,
+      "pace": 89,
+      "shooting": 94,
+      "passing": 67,
+      "dribbling": 81,
+      "defending": 45,
+      "physical": 89
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jude Bellingham",
+    "club": "Real Madrid",
+    "nationality": "England",
+    "position": "Midfielder",
+    "statistics": {
+      "overall": 91,
+      "pace": 83,
+      "shooting": 87,
+      "passing": 86,
+      "dribbling": 89,
+      "defending": 78,
+      "physical": 85
+    }
+  }
+]
